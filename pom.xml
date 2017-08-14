@@ -7,6 +7,11 @@
     <groupId>com.yiffq.demo</groupId>
     <artifactId>spring-cloud-demo</artifactId>
     <version>1.0.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <modules>
+        <module>eureka_server</module>
+        <module>service_hi</module>
+    </modules>
 
 
 </project>
